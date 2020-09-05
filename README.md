@@ -1,15 +1,10 @@
 # Practical Scripting with Python
-## UNO Summer Techademy
-
-### Join our Repl.it Classroom
-If you have not yet done this, follow this link to join our classroom:
-[https://repl.it/classroom/invite/s6sFivu](https://repl.it/classroom/invite/s6sFivu)
 
 ## Importing from GitHub
 - In the top left of Repl.it, select **+ new repl**
 - Change tabs to select **Import From GitHub**
 - Paste the following URL into the box:
-  - ***github.com/UNO-Babb/Python-Summer-02***
+  - ***github.com/Julie789/PythonClass2/***
 
 ### Using Random in Python
 There are many packages that other people have made that we can use in our python program. To do this, we just need to import the package.
@@ -105,7 +100,3 @@ response = random.choice(answers)
 ### Until next class
 - How could random program make your life easier?
 - What else could we do with random and looping?
-
-### Other examples:
-https://repl.it/@JulieSunny/guessNumber#main.py  
-https://repl.it/@JulieSunny/Hangman#main.py
